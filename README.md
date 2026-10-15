@@ -342,8 +342,8 @@ To defend against zero-click endpoint attacks, engineering teams should follow s
 ```
 .
 ├── README.md                          # Project documentation (this file)
-├── Case_Study_Report_Group15.pdf      # Full case study report
-└── Similarity_Report.pdf              # Similarity / plagiarism report
+├── G15.pdf                            # Full case study report
+└── Report(3).pdf                      # Similarity / plagiarism report
 ```
 
 > Rename the entries above to match the files you actually upload.
